@@ -2,7 +2,7 @@
 
 <!-- Terminal Header Typing SVG -->
 <a href="https://github.com/mafaqbhatti">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=echo+%22Hello%2C+World!+I'm+Afaq+Bhatti%22;AI+Engineer+%7C+Machine+Learning+Engineer;Spatiotemporal+Deep+Learning+%26+Computer+Vision;Multi-Agent+LLM+Architectures+%26+Cost-Aware+RAG" alt="Terminal Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=echo+%22Hello%2C+World!+I'm+Afaq+Bhatti%22;AI+Engineer+%7C+Machine+Learning+Engineer;Spatiotemporal+Deep+Learning+%26+Computer+Vision;Multi-Agent+LLM+Architectures+%26+Cost-Aware+RAG" alt="Terminal Typing Header" />
 </a>
 
 <p align="center">
@@ -56,12 +56,17 @@ EOF
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mafaqbhatti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00FF66&icon_color=00FF66&text_color=9ECE6A" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaqbhatti&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF66&text_color=9ECE6A" height="165" alt="Top Languages" />
+<!-- Verified Multi-Year Contribution Breakdown -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-373-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Total Contributions: 373" />
+  <img src="https://img.shields.io/badge/2026-184_contributions-00C853?style=flat-square" alt="2026: 184" />
+  <img src="https://img.shields.io/badge/2025-163_contributions-00E676?style=flat-square" alt="2025: 163" />
+  <img src="https://img.shields.io/badge/2024-26_contributions-69F0AE?style=flat-square" alt="2024: 26" />
+</p>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mafaqbhatti&theme=tokyonight&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66" width="49%" alt="GitHub Streak" />
+<!-- Live Streak & Contributions Card (starting_year=2024 counts all 373 contributions) -->
+<img src="https://streak-stats.demolab.com/?user=mafaqbhatti&theme=tokyonight&starting_year=2024&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideLabels=9ECE6A&dates=7AA2F7" width="56%" alt="GitHub Contributions & Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaqbhatti&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF66&text_color=9ECE6A" width="41%" alt="Top Languages" />
 
 </div>
 
