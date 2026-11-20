@@ -58,8 +58,8 @@ EOF
 
 <!-- Verified Multi-Year Contribution Breakdown -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-373-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Total Contributions: 373" />
-  <img src="https://img.shields.io/badge/2026-184_contributions-00C853?style=flat-square" alt="2026: 184" />
+  <img src="https://img.shields.io/badge/Total_Contributions-443-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Total Contributions: 443" />
+  <img src="https://img.shields.io/badge/2026-254_contributions-00C853?style=flat-square" alt="2026: 254" />
   <img src="https://img.shields.io/badge/2025-163_contributions-00E676?style=flat-square" alt="2025: 163" />
   <img src="https://img.shields.io/badge/2024-26_contributions-69F0AE?style=flat-square" alt="2024: 26" />
 </p>
