@@ -64,9 +64,9 @@ EOF
   <img src="https://img.shields.io/badge/2024-26_contributions-69F0AE?style=flat-square" alt="2024: 26" />
 </p>
 
-<!-- Live Streak & Contributions Card (starting_year=2024 counts all 373 contributions) -->
-<img src="https://streak-stats.demolab.com/?user=mafaqbhatti&theme=tokyonight&starting_year=2024&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideLabels=9ECE6A&dates=7AA2F7" width="56%" alt="GitHub Contributions & Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaqbhatti&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF66&text_color=9ECE6A" width="41%" alt="Top Languages" />
+<!-- Live Streak & Contributions Card (v=443 ensures fresh cache-busted 443 total count) -->
+<img src="https://streak-stats.demolab.com/?user=mafaqbhatti&theme=tokyonight&starting_year=2024&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideLabels=9ECE6A&dates=7AA2F7&v=443" width="56%" alt="GitHub Contributions & Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaqbhatti&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF66&text_color=9ECE6A&hide=html,css&exclude_repo=portfolio-,AssessOps" width="41%" alt="Top Languages" />
 
 </div>
 
