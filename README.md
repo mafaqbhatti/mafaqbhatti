@@ -58,7 +58,6 @@ EOF
 
 <!-- Live Dynamic GitHub Stats & Streaks (Auto-Updates with Every Commit) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mafaqbhatti&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=9ECE6A&count_private=true" width="49%" alt="Afaq's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=mafaqbhatti&theme=tokyonight&starting_year=2024&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideLabels=9ECE6A&dates=7AA2F7" width="49%" alt="GitHub Streak" />
 </p>
 
