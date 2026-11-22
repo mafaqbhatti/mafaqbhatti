@@ -56,17 +56,16 @@ EOF
 
 <div align="center">
 
-<!-- Verified Multi-Year Contribution Breakdown -->
+<!-- Live Dynamic GitHub Stats & Streaks (Auto-Updates with Every Commit) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-443-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Total Contributions: 443" />
-  <img src="https://img.shields.io/badge/2026-254_contributions-00C853?style=flat-square" alt="2026: 254" />
-  <img src="https://img.shields.io/badge/2025-163_contributions-00E676?style=flat-square" alt="2025: 163" />
-  <img src="https://img.shields.io/badge/2024-26_contributions-69F0AE?style=flat-square" alt="2024: 26" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mafaqbhatti&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=9ECE6A&count_private=true" width="49%" alt="Afaq's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mafaqbhatti&theme=tokyonight&starting_year=2024&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideLabels=9ECE6A&dates=7AA2F7" width="49%" alt="GitHub Streak" />
 </p>
 
-<!-- Live Streak & Contributions Card (v=443 ensures fresh cache-busted 443 total count) -->
-<img src="https://streak-stats.demolab.com/?user=mafaqbhatti&theme=tokyonight&starting_year=2024&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideLabels=9ECE6A&dates=7AA2F7&v=443" width="56%" alt="GitHub Contributions & Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaqbhatti&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF66&text_color=9ECE6A&hide=html,css&exclude_repo=portfolio-,AssessOps" width="41%" alt="Top Languages" />
+<!-- Top Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaqbhatti&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF66&text_color=9ECE6A&hide=html,css&exclude_repo=portfolio-,AssessOps" width="60%" alt="Top Languages" />
+</p>
 
 </div>
 
