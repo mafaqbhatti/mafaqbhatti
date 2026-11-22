@@ -56,15 +56,9 @@ EOF
 
 <div align="center">
 
-<!-- Live Dynamic GitHub Stats & Streaks (Auto-Updates with Every Commit) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mafaqbhatti&theme=tokyonight&starting_year=2024&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideLabels=9ECE6A&dates=7AA2F7" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaqbhatti&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF66&text_color=9ECE6A&hide=html,css&exclude_repo=portfolio-,AssessOps" width="60%" alt="Top Languages" />
-</p>
-
-<!-- Top Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaqbhatti&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF66&text_color=9ECE6A&hide=html,css&exclude_repo=portfolio-,AssessOps" width="60%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=mafaqbhatti&theme=tokyonight&starting_year=2024&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideLabels=9ECE6A&dates=7AA2F7" width="56%" alt="GitHub Contributions & Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaqbhatti&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF66&text_color=9ECE6A&hide=html,css&exclude_repo=portfolio-,AssessOps" width="41%" alt="Top Languages" />
 </p>
 
 </div>
